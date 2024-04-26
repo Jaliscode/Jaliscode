@@ -6,7 +6,7 @@
 
 - <p><img src="https://static.vecteezy.com/system/resources/previews/023/741/147/non_2x/discord-logo-icon-social-media-icon-free-png.png" width="15"> You can contact me on discord : 2mill10
 <b></p><br><br><br>
-<p>Programming languages</p>
+### Programming languages
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50">
