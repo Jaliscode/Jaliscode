@@ -11,3 +11,5 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaliscode)](https://github.com/Jaliscode/github-readme-stats)
