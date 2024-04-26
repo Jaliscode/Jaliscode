@@ -2,7 +2,7 @@
 
 ### I am passionate about managing and executing all types of projects.
 
-- <p><img src="https://cdn3.emoji.gg/emojis/9610-pogo-os-developer.png " width="15">developer learning<b></p>
+- <p><img src="https://cdn3.emoji.gg/emojis/9610-pogo-os-developer.png" width="15">developer learning<b></p>
 
-- <p><img src="https://static.vecteezy.com/system/resources/previews/023/741/147/non_2x/discord-logo-icon-social-media-icon-free-png.png " width="15"> You can contact me on discord : 2mill10
+- <p><img src="https://static.vecteezy.com/system/resources/previews/023/741/147/non_2x/discord-logo-icon-social-media-icon-free-png.png" width="15"> You can contact me on discord : 2mill10
 <b></p>
