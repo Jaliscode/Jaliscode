@@ -2,10 +2,10 @@
 
 ### I am passionate about managing and executing all types of projects.
 
-- <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"><b> Developer learning<b></p>
+- <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"> Developer learning </p>
 
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="15"> You can contact me on discord : 2mill10
-<b></p><br><br>
+</p><br><br>
 ### Programming languages
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50">
