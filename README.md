@@ -13,3 +13,5 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50"><br><br><br>
 
 ### Github stats :<br><br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaliscode&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
