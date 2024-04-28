@@ -5,7 +5,7 @@
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"><b> Developer learning </p>
 
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="15"> You can contact me on discord : 2mill10
-<b></p><br><br>
+<b></p><br>
 #
 ### Programming languages :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
