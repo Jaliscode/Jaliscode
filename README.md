@@ -12,9 +12,9 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50">
 <br><br><br>
-<b>Contact me on discord : </b>
+<p></p><b>Contact me on discord : </b>
   <div style="display : flex; width : 100%; padding-left : 1.5rem">
-  <br><img style="width : 32%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
+  <br><img style="width : 32%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png"></p>
 </div>
 
 ### Github stats :<br><br> ![Jaliscode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaliscode&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaliscode&layout=compact&theme=radical)
