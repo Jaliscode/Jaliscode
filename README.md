@@ -12,7 +12,7 @@
 <br><img style="width : 45%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
 </div>
 
-<br>
+<br><br>
 #
 ### Programming languages :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
