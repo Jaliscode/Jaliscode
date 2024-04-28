@@ -6,6 +6,12 @@
 
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="15"> You can contact me on discord : 2mill10
 <b></p><br><br>
+
+### Contact me on discord :
+<div style="display : flex; width : 100%; padding-left : 1.5rem">
+<br><img style="width : 32%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
+</div>
+
 ### Programming languages :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50">
@@ -13,10 +19,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50">
 <br><br><br>
 
-### Contact me on discord :
-<div style="display : flex; width : 100%; padding-left : 1.5rem">
-<br><img style="width : 32%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
-</div>
+
 
 ### Github stats :<br><br> ![Jaliscode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaliscode&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaliscode&layout=compact&theme=radical)
 
