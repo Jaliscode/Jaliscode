@@ -5,19 +5,17 @@
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"><b> Developer learning </p>
 
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="15"> You can contact me on discord : 2mill10
-<b></p><br>
-
-### Contact me on discord :
-<div style="display : flex; width : 100%; padding-left : 1.5rem">
-<br><img style="width : 32%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
-</div><br><br>
-
+<b></p><br><br>
 ### Programming languages :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50">
 <br><br><br>
+### Contact me on discord :
+<div style="display : flex; width : 100%; padding-left : 1.5rem">
+<br><img style="width : 32%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
+</div>
 
 
 
