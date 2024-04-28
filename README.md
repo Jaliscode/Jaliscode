@@ -25,7 +25,7 @@
 #
 <p>### Tools : 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width"50"> 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width"50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width"50"></p>
 
 #
 ### Github stats :<br><br> ![Jaliscode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaliscode&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaliscode&layout=compact&theme=radical)
