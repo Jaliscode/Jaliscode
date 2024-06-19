@@ -4,7 +4,7 @@
 
 - <p><img src="https://cdn3d.iconscout.com/3d/premium/thumb/cyber-securityprotect-shield-8936474-7277200.png?f=webp" width="15"><b> Cybersecurity learning </p>
 
-- <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"> Developer learning : 2mill10
+- <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"> Developer learning 
 <b></p><br>
 #
 ### Contact me on discord :
